@@ -1,5 +1,4 @@
-# datapasta 
-[![CRAN status.](http://www.r-pkg.org/badges/version/datapasta)](http://www.r-pkg.org/pkg/datapasta)
+Hey Miles, I'm making a pull request to illustrate how this works in a workshop.
 
 #The Goods
 ## Paste as tribble
